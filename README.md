@@ -20,5 +20,9 @@
 ### Status ###
 
 #### How to Contribute ####
+- Fork the repository to create your own copy
+- make needed adjustments in your copy
+- push your adjustment to create a pull request with the main repo
+- wait for your contribution to get merged!
 
 ##### Key Contact ####
